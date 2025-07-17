@@ -33,3 +33,9 @@
 </div>
 
 ###
+
+<h2 align="left">Contacts</h2>
+<p>🌐 <a href="https://www.linkedin.com/in/jpsantos250/">Linkedin</a>
+<br>📧 santos__jp@hotmail.com</p>
+
+###
